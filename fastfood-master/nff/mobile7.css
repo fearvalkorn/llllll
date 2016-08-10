@@ -1,0 +1,93 @@
+header{
+	width: 100%;
+}
+#header{
+	width: 100%;
+}
+body{
+	width:100%;
+	background-size: 0,0;
+	height: 1000px;
+}
+#head{
+	width: 100%;
+}
+#wrapp{
+	height: 500px;
+/*	width: 100%;*/
+}
+#footer{
+	width: 100%;
+}
+#slikafootera{
+	width: 150px;
+	height: 110px;
+	margin-top: 30px;
+}
+#pljedza{
+	width: 100%;
+	right:179px;
+}
+#neston{
+	font-size: 28px;
+}
+#logo{
+	margin-left: 20px;
+}
+#logo1{
+	width: 190px;
+	height: 140px;
+	left: 20px;
+}
+#sve{
+	display: none;
+}
+#preporuka{
+	display: none;
+}
+#telefon{
+	background-size: 40px 40px;
+	font-size: 1px;
+	left: 360px;
+	top: 0;
+}
+#nt{
+	font-size: 15px;
+}
+#font{
+	font-size: 11px;
+}
+#navigacija{
+	background-size: 40px 40px;
+	left: 660px;
+	right: 50px;
+	bottom: 10px;
+}
+#lokacija{
+	font-size: 15px;
+}
+#nav{
+	left: 200px;
+}
+#radnoVreme{
+	background-size: 40px 40px;
+	left: 660px;
+	top: 50px;
+	width: 140px;
+}
+#rv{
+	font-size: 15px;
+}
+#vp{
+	font-size: 11px;
+}
+#space1{
+	display: none;
+}
+#menu2{
+	 top: 300px;
+}
+#meni{
+	top: 513px;
+	left: -28px;
+}
